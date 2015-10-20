@@ -1,0 +1,17 @@
+/* HTML */
+
+form {
+	border-top: solid 10px #ccc;
+	border-bottom: solid 10px #ccc;
+	padding: 2%;
+	margin: 0;
+	width: 96%;
+}
+
+label {
+	width: 100%;
+}
+input {
+	width: 100%;
+	margin-bottom: 10px;
+}
